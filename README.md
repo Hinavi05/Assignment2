@@ -24,7 +24,19 @@
     $ git checkout -b anotherBranch
     Switched to a new branch 'anotherBranch'
 
-    
+### 6.Make changes to your files
+
+### 7.see if the file change is detected with git status.
+
+    $ git status
+    On branch anotherBranch
+
+    No commits yet
+
+    Changes to be committed:
+      (use "git rm --cached <file>..." to unstage)
+            new file:   Q1.txt
+
     
     
     
