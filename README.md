@@ -36,7 +36,19 @@
     Changes to be committed:
       (use "git rm --cached <file>..." to unstage)
             new file:   Q1.txt
+            
+    Untracked files:
+    (use "git add <file>..." to include in what will be committed)
+        Assignment2/
+        anotherfile.txt
 
+### 8.stage the changes with git add .
+
+    $ git add .
     
-    
+
+
+
+
+ 
     
