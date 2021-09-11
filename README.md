@@ -15,6 +15,9 @@
 
     $ git add Q1.txt
 
+### 4.Add another file to do the following.
+
+    $ touch anotherfile.txt
 
     
     
