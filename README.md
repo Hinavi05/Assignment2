@@ -76,6 +76,14 @@
     On branch anotherBranch
     nothing to commit, working tree clean
 
+### 13. check that your commit succeeded as expected with git log
+
+    $ git log
+    commit 82589e478274bead20e29b829d220b9d2e3379c9 (HEAD -> anotherBranch)
+    Author: shanthika <sriyanthishanthika@gmail.com>
+    Date:   Sun Sep 12 02:54:11 2021 +0530
+
+        Answer Question
 
  
     
