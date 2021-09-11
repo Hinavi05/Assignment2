@@ -46,6 +46,19 @@
 
     $ git add .
     
+### 9.check that the add did what you expected with git status.
+
+    $ git status
+    On branch anotherBranch
+
+    No commits yet
+
+    Changes to be committed:
+      (use "git rm --cached <file>..." to unstage)
+            new file:   Assignment2
+            new file:   Q1.txt
+            new file:   anotherfile.txt
+
 
 
 
