@@ -61,7 +61,14 @@
 
 ### 10.make the commit with git commit.
 
+### 11. Write a meaningful commit message (e.g. "Answers question 1").
 
+    $ git commit -am "Answer Question"
+    [anotherBranch (root-commit) 82589e4] Answer Question
+     3 files changed, 2 insertions(+)
+     create mode 160000 Assignment2
+     create mode 100644 Q1.txt
+     create mode 100644 anotherfile.txt
 
 
 
